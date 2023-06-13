@@ -6,6 +6,26 @@
 </div>
 
 
+### ⚙️🤖 Herramientas De Automatización Google Cloud ⚙️🤖
+<ul>
+  <li>Google Data Studio</li>
+  <li>Google App Script</li>
+  <li>Gmail</li>
+  <li>Google Drive</li>
+  <li>Google Meet</li>
+  <li>Google Classroom</li>
+  <li>Google Docs, Sheets</li>
+</ul>
+  
+### ⚙️🤖 Herramientas De Automatización Office 365 ⚙️🤖
+<ul>
+  <li>Microsoft Power BI</li>
+  <li>Microsoft Power Automate</li>
+  <li>Microsoft Outlook</li>
+  <li>Sharepoint</li>
+  <li>Office 365</li>
+</ul>
+
 ### ⚙️🤖 Herramientas De Automatización De Prueba ⚙️🤖
 <ul>
   <li>Screenplay</li>
@@ -18,6 +38,8 @@
   <li>SerenityBDD</li>
   <li>REST Assured</li>
   <li>Postman</li>
+  <li>Mockoon</li>
+  <li>IntelliJ Idea</li>
   <li>Bases de datos SQL</li>
 </ul>
 
