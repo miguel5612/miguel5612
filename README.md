@@ -8,7 +8,7 @@
 
 ### ⚙️🤖 Herramientas De Automatización De Prueba ⚙️🤖
 <ul>
-  <li>Screemplay</li>
+  <li>Screenplay</li>
   <li>Page Object Model Lean</li>
   <li>Selenium</li>
   <li>Java</li>
