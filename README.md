@@ -1,16 +1,79 @@
-### Hi there 👋
 
-<!--
-**miguel5612/miguel5612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
+<div align='center'>
+  <h1> Miguel Angel Califa Urquiza 💻🔌🏫🖧</h1>
+  <b>⚙Ingeniero Electronico con experiencia en Automatización de Pruebas🧾, Desarrollo Full-Stack 💻💻, Instalaciones electricas residenciales e industriales 🔌, docencia 🏫, redes y cableado estructurado🖧 </b>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️🤖 Herramientas De Automatización De Prueba ⚙️🤖
+<ul>
+  <li>Screemplay</li>
+  <li>Page Object Model Lean</li>
+  <li>Selenium</li>
+  <li>Java</li>
+  <li>WebDriver</li>
+  <li>Gherkin</li>
+  <li>Cucumber</li>
+  <li>SerenityBDD</li>
+  <li>REST Assured</li>
+  <li>Postman</li>
+  <li>Bases de datos SQL</li>
+</ul>
+
+### 🖥️🎨 Herramientas De desarrollo Web (Front-End) 🖥️🎨
+<ul>
+  <li>JavaScript (Vue JS, Angular, React)</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  <li>Bootstrap</li>  
+</ul>
+
+### 🔢🖂 Herramientas De desarrollo Web (Back-End) 🔢🖂
+<ul>
+  <li>C#</li>
+  <li>.Net Core</li>
+  <li>Node JS</li>
+  <li>Python</li>  
+  <li>SQL</li>
+</ul>
+
+### 💻🖂 Lenguajes interpretados (Back/Front) 🖥️🖂
+<ul>
+  <li>ASP .NET</li>
+  <li>VB .NET</li>
+  <li>PHP</li>
+</ul>
+
+### 🖨️📠 Lenguajes Microcontroladores (Uc) 🖨️📠
+<ul>
+  <li>Assembler</li>
+  <li>C</li>
+  <li>Arduino</li>
+</ul>
+
+
+### 🌳🌳 Control de versiones (Gitlab, Github, Tortoise) 🌳🌳
+<ul>
+  <li>Git</li>
+</ul>
+
+### 💻🌐 CI/CD Integración continua y BDD ✨✔️
+<ul>
+  <li>Jenkins</li>
+</ul>
+
+### 🖳🌐 Publicación 🖱️✔️
+<ul>
+  <li>Windows Server</li>
+  <li>Ubuntu Server</li>
+</ul>
+
+### 🖳🌐 Enrutamiento (Cisco - DLink) 🖱️✔️
+<ul>
+  <li>Capa 2</li>
+  <li>Capa 3</li>
+</ul>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=miguel5612&show_icons=true&theme=dracula&hide=stars,issues" alt="miguel5612" />
